@@ -1,0 +1,14 @@
+C:\Users\Talat Ceyhun\source\repos\CustomerApp.API\CustomerApp.API\bin\Debug\netcoreapp2.1\CustomerApp.API.deps.json
+C:\Users\Talat Ceyhun\source\repos\CustomerApp.API\CustomerApp.API\bin\Debug\netcoreapp2.1\CustomerApp.API.runtimeconfig.json
+C:\Users\Talat Ceyhun\source\repos\CustomerApp.API\CustomerApp.API\bin\Debug\netcoreapp2.1\CustomerApp.API.runtimeconfig.dev.json
+C:\Users\Talat Ceyhun\source\repos\CustomerApp.API\CustomerApp.API\bin\Debug\netcoreapp2.1\CustomerApp.API.dll
+C:\Users\Talat Ceyhun\source\repos\CustomerApp.API\CustomerApp.API\bin\Debug\netcoreapp2.1\CustomerApp.API.pdb
+C:\Users\Talat Ceyhun\source\repos\CustomerApp.API\CustomerApp.API\obj\Debug\netcoreapp2.1\CustomerApp.API.csprojAssemblyReference.cache
+C:\Users\Talat Ceyhun\source\repos\CustomerApp.API\CustomerApp.API\obj\Debug\netcoreapp2.1\CustomerApp.API.csproj.CoreCompileInputs.cache
+C:\Users\Talat Ceyhun\source\repos\CustomerApp.API\CustomerApp.API\obj\Debug\netcoreapp2.1\CustomerApp.API.RazorAssemblyInfo.cache
+C:\Users\Talat Ceyhun\source\repos\CustomerApp.API\CustomerApp.API\obj\Debug\netcoreapp2.1\CustomerApp.API.RazorAssemblyInfo.cs
+C:\Users\Talat Ceyhun\source\repos\CustomerApp.API\CustomerApp.API\obj\Debug\netcoreapp2.1\CustomerApp.API.AssemblyInfoInputs.cache
+C:\Users\Talat Ceyhun\source\repos\CustomerApp.API\CustomerApp.API\obj\Debug\netcoreapp2.1\CustomerApp.API.AssemblyInfo.cs
+C:\Users\Talat Ceyhun\source\repos\CustomerApp.API\CustomerApp.API\obj\Debug\netcoreapp2.1\CustomerApp.API.RazorTargetAssemblyInfo.cache
+C:\Users\Talat Ceyhun\source\repos\CustomerApp.API\CustomerApp.API\obj\Debug\netcoreapp2.1\CustomerApp.API.dll
+C:\Users\Talat Ceyhun\source\repos\CustomerApp.API\CustomerApp.API\obj\Debug\netcoreapp2.1\CustomerApp.API.pdb
